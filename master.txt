@@ -1,6 +1,4 @@
-﻿
-
-Delete previous Contents
+﻿Delete previous Contents
 and add follows.
 
 master 
@@ -8,3 +6,9 @@ master
 master 
 master 
 master 
+
+master 추가
+
+
+Modify Test Branch master.txt
+Probably Conflit will happen in merge status
